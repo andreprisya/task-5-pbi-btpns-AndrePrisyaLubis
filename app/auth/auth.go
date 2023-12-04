@@ -54,7 +54,6 @@ func ValidateToken(signedToken string) (err error) {
 	return
 }
 
-// Untuk mengambil data email berdasarkan token user yang login
 func GetEmail(signedToken string) (email string, err error) {
 	token, err := jwt.ParseWithClaims(
 		signedToken,
