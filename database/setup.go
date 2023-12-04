@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/Shiroyasha19/task-5-vix-btpns-AdjiPrayoga/models"
+	"github.com/andreprisya/task-5-vix-btpns-AndrePrisyaLubis/models"
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/postgres"
 	"github.com/joho/godotenv"
