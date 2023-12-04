@@ -4,8 +4,8 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/jinzhu/gorm"
 
-	"github.com/Shiroyasha19/task-5-vix-btpns-AdjiPrayoga/controllers"
-	"github.com/Shiroyasha19/task-5-vix-btpns-AdjiPrayoga/middlewares"
+	"github.com/andreprisya/task-5-vix-btpns-AndrePrisyaLubis/controllers"
+	"github.com/andreprisya/task-5-vix-btpns-AndrePrisyaLubis/middlewares"
 )
 
 // Melakukan set up routes end point
