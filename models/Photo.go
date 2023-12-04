@@ -5,7 +5,7 @@ import (
 	"html"
 	"strings"
 
-	"github.com/Shiroyasha19/task-5-vix-btpns-AdjiPrayoga/app"
+	"github.com/andreprisya/task-5-vix-btpns-AndrePrisyaLubis/app"
 )
 
 type Photo struct {
