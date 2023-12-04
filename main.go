@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/Shiroyasha19/task-5-vix-btpns-AdjiPrayoga/database"
-	"github.com/Shiroyasha19/task-5-vix-btpns-AdjiPrayoga/models"
-	"github.com/Shiroyasha19/task-5-vix-btpns-AdjiPrayoga/router"
+	"github.com/andreprisya/task-5-vix-btpns-AndrePrisyaLubis/database"
+	"github.com/andreprisya/task-5-vix-btpns-AndrePrisyaLubis/models"
+	"github.com/andreprisya/task-5-vix-btpns-AndrePrisyaLubis/router"
 )
 
 func main() {
