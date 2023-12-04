@@ -3,7 +3,7 @@ package middlewares
 import (
 	"strings"
 
-	"github.com/Shiroyasha19/task-5-vix-btpns-AdjiPrayoga/app/auth"
+	"github.com/andreprisya/task-5-vix-btpns-AndrePrisyaLubis/app/auth"
 	"github.com/gin-gonic/gin"
 )
 
